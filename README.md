@@ -2,7 +2,7 @@
 
 My pronouns are He/Him. 
 <br></br>
-I'm a Full Stack Developer currently working [@Ecstatic Apps, Inc.](https://github.com/ecstaticapps)
+I'm a Full Stack Developer currently working at [Ecstatic Apps, Inc.](https://ecstatic.com/)
 <br></br>
 When I'm not glued to the computer you can find me planning my next DnD campaign&nbsp; :mage_man:&nbsp; or walking my rescue dog, Boogie :dog: 
 <br></br>
@@ -23,7 +23,7 @@ Next, I'm planning to learn
 — [Martin Adams](https://github.com/heymartinadams)
 
 Co-Founder,
-[Ecstatic Apps, Inc.](https://github.com/ecstaticapps)
+[Ecstatic Apps, Inc.](https://ecstatic.com/)
 <br></br>
 # Projects :rocket: 
 
